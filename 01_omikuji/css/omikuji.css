@@ -136,9 +136,9 @@ footer {
 }
 @media screen and (min-width: 480px){
     body{
-        background-position: 50% 0%;
+        background-size: cover;
+        background-repeat: no-repeat;
         background-size: auto 1024px;
-        display: flex;
         justify-content: center;
     }
 }
