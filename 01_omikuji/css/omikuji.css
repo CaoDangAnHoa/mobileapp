@@ -138,5 +138,7 @@ footer {
     body{
         background-position: 50% 0%;
         background-size: auto 1024px;
+        display: flex;
+        justify-content: center;
     }
 }
